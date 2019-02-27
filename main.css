@@ -1,0 +1,58 @@
+* {
+	box-sizing: border-box;
+}
+ 
+body {
+  background-color: Lavender;
+  text-align: center;
+  margin: 0;
+}
+header{
+	color: white;
+	background-color: Teal;
+	height: 50px;
+	margin-top: -20px;
+	}
+	
+h1 { 
+	
+	font-family: 'Staatliches', cursive;
+}
+
+ul {
+  list-style-type: none;
+}
+nav a { 
+	text-decoration: none;
+	color: white;
+	font-size: 20px;
+}
+a {
+	text-decoration: under-lined;
+	}
+a:hover {
+	color:red;
+	}
+
+
+nav { 
+	background-color: Black;
+	}
+	a {
+	text-decoration: none;
+	color: black;
+	}
+footer{
+	position: fixed;
+	left: 0;
+	bottom: 0;
+	width: 100%;
+	background-color: Teal;
+	}
+		
+.important {
+	font-weight: bold;
+	}
+div{
+	padding-top: 30;
+	}
